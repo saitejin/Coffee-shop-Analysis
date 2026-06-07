@@ -12,7 +12,7 @@ This project focuses on analyzing coffee shop sales data using Microsoft Excel. 
 * Slicers
 * Dashboard Visualization
 
-## Key Insights
+## Key Insights 📊
 
 * Analysis of overall sales performance
 * Product-wise sales comparison
